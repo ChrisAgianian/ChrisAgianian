@@ -1,16 +1,16 @@
-### Hi there 👋
+- 👋 Hi there, I'm @ChrisAgianian, a Computer Science graduate from Queens College, CUNY. If you are looking for notes, I'm sorry, my dog ate them all in one big Byte!🐕
+  
+- 💻 I am aspiring to be a Software Engineer. I have a strong interest in full-stack web application design. My go-to language is Java, but I am also learning JS and Python.
+  I recently challenged myself by attending a rigorous CUNY Software Engineering Career Track Boot Camp with a focus on Web Dev. The technical training and projects were super
+  interesting and taught me a lot about programming, design principles, punctuality, collaboration and team work - which was very important for the capstone full-stack project. 
+    
+- 🌱 I'm currently learning about Genetic Algorithms - Queens College has a great course on Gen Algoand I had the opportunity to learn about the search heuristic that is inspired by
+  Charles Darwin’s theory of natural evolution.This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to
+  produce offspring of the next generation. Genetic algorithms are based on the genetic material (DNA) and the behaviour of chromosomes.
+  
+- 🔭 Fun fact about me: I am a member of the Greek Astronomy Club - Our high resolution telescope pictures were showcased in a Historical Museum Gallery!
 
-<!--
-**ChrisAgianian/ChrisAgianian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about my puppy, her name is Freeda.
+  
+- 📫 Here's my LinkedIn profile:
+www.linkedin.com/in/christos-agianian-001b10192
