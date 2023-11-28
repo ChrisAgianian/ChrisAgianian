@@ -4,7 +4,7 @@
   I recently challenged myself by attending a rigorous CUNY Software Engineering Career Track Boot Camp with a focus on Web Dev. The technical training and projects were super
   interesting and taught me a lot about programming, design principles, punctuality, collaboration and team work - which was very important for the capstone full-stack project. 
     
-- 🌱 I'm currently learning about Genetic Algorithms - Queens College has a great course on Gen Algoand I had the opportunity to learn about the search heuristic that is inspired by
+- 🌱 I'm currently learning about Genetic Algorithms - Queens College has a great course on Gen Algs and I had the opportunity to learn about the search heuristic that is inspired by
   Charles Darwin’s theory of natural evolution.This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to
   produce offspring of the next generation. Genetic algorithms are based on the genetic material (DNA) and the behaviour of chromosomes.
   
